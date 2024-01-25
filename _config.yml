@@ -1,14 +1,13 @@
 title: Jiao Meng
-logo: "/images/logo.jpg?raw=true"
+logo: "/images/website logo.png?raw=true"
 description: >
-   I am a passionate and data-driven analytics professional with a strong background in BI analytics, data visualization, and predictive modeling. 
-   Proficient in tools like Power BI, Python, and SQL, I am dedicated to leveraging data for strategic decision-making. 
-   With experience in e-commerce and a master's degree in Social Scientific Data Analysis underway, 
-   I combine technical skills with a deep understanding of data to drive meaningful insights.
+   I am a passionate and data-driven analytics professional with a strong background in BI analytics, data visualization, and data modeling. 
+   I am dedicated to leveraging data for strategic decision-making. 
+   I can combine technical skills with a deep understanding of data to drive meaningful insights.
    <br><br>
    <a href="https://www.linkedin.com/in/jiao-meng/">View My LinkedIn Profile</a> 
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
-google_analytics: UA-000000-0
+google_analytics: G-G0SDTGEHWR
