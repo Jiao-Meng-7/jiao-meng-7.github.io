@@ -2,13 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Data Analysis Projects 
 
-[Project 1 Title](/sample_page)
+[Jewelry Sales Analysis](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Market Campaign Analysis](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Case Study Blogs
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
