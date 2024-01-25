@@ -1,16 +1,14 @@
-title: Jiao Meng # your name (or website title) here
-logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+title: Jiao Meng
+logo: "/images/logo.jpg?raw=true"
+description: >
    I am a passionate and data-driven analytics professional with a strong background in BI analytics, data visualization, and predictive modeling. 
-   I am proficient in tools like Power BI, Python, and SQL and am dedicated to leveraging data for strategic decision-making. 
+   Proficient in tools like Power BI, Python, and SQL, I am dedicated to leveraging data for strategic decision-making. 
    With experience in e-commerce and a master's degree in Social Scientific Data Analysis underway, 
-   I combine technical skills with a deep understanding of data to drive meaningful insights 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/jiao-meng/">View My LinkedIn Profile</a> 
-  
+   I combine technical skills with a deep understanding of data to drive meaningful insights.
+   <br><br>
+   <a href="https://www.linkedin.com/in/jiao-meng/">View My LinkedIn Profile</a> 
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+  - jekyll-remote-theme
+google_analytics: UA-000000-0
