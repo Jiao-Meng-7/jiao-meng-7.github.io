@@ -5,7 +5,7 @@
 ### Data Analysis Projects 
 
 [Jewelry Sales Analysis](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/powerbi cover.png?raw=true"/>
 
 ---
 [Market Campaign Analysis](/pdf/sample_presentation.pdf)
