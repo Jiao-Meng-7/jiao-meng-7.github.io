@@ -1,6 +1,6 @@
-## This can be your internal website page / project page
+## A/B Testing Project Page
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** An e-commerce company is looking to improve the conversion rate on its website's product pages by testing two different landing page designs. The company has randomly divided users into two groups: the treatment group, exposed to the new landing page design, and the control group, which continues to see the existing landing page design. Each user's interaction is tracked through timestamps, and a binary "converted" value indicates whether the user completed the desired action (conversion) on the page or not.
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
