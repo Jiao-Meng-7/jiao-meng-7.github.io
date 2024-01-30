@@ -12,7 +12,7 @@
 <img src="images/campaign analysis cover.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[E-commerce A/B Testing](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
