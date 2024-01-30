@@ -13,7 +13,7 @@
 
 ---
 [E-commerce A/B Testing](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/abtesting cover.png?raw=true"/>
 
 ---
 
