@@ -4,7 +4,7 @@
 
 ### Data Analysis Projects 
 
-[Jewelry Sales Analysis](/sample_page)
+[Jewelry Sales Analysis]([/sample_page](https://app.powerbi.com/groups/me/reports/5904a8ff-7afe-4c2a-a26d-1964dd0365ab/ReportSectionaaaf2eba6ad99f9a3e9e?experience=power-bi))
 <img src="images/powerbi cover.png?raw=true"/>
 
 ---
