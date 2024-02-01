@@ -4,7 +4,7 @@
 
 ### Data Analysis Projects 
 
-[Jewelry Sales Analysis]([/sample_page](https://app.powerbi.com/groups/me/reports/5904a8ff-7afe-4c2a-a26d-1964dd0365ab/ReportSectionaaaf2eba6ad99f9a3e9e?experience=power-bi))
+[Jewelry Sales Analysis](https://app.powerbi.com/groups/me/reports/5904a8ff-7afe-4c2a-a26d-1964dd0365ab/ReportSectionaaaf2eba6ad99f9a3e9e?experience=power-bi)
 <img src="images/powerbi cover.png?raw=true"/>
 
 ---
@@ -12,7 +12,7 @@
 <img src="images/campaign analysis cover.png?raw=true"/>
 
 ---
-[E-commerce A/B Testing](http://example.com/)
+[E-commerce A/B Testing](/sample_page)
 <img src="images/abtesting cover.png?raw=true"/>
 
 ---
