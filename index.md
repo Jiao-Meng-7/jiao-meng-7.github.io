@@ -8,7 +8,7 @@
 <img src="images/powerbi cover.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Market Campaign Analysis](/pdf/Marketing Campaign Analysis PowerPoint_Jiao Meng.pdf)
 <img src="images/campaign analysis cover.png?raw=true"/>
 
 ---
