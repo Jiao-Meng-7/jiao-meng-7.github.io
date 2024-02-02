@@ -1,51 +1,23 @@
-## Developer Portfolio Landing Page Template
+## Jiao Meng's Website
 
 ### Introduction
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+Hello, my name is Jiao Meng, this is my website. It displays all data analysis projects that have been done by myself and other relative case study blogs. 
 
-<img src="images/demo.gif?raw=true"/>
+As a data-driven enthusiast with a profound passion for transforming raw data into actionable insights, I specialize in end-to-end Business Intelligence (BI) analytics, comprehensive data visualization, and the development of sophisticated predictive models. My journey in the realm of data analytics is underpinned by a solid foundation in quantitative analysis, which I've diligently honed to master the intricacies of advanced analytics tools and methodologies. This technical prowess enables me to leverage data for strategic decision-making effectively and to tackle complex problems with innovative solutions.
 
-### Installation
+My expertise spans a wide array of analytics platforms and programming languages, including but not limited to, SQL for database management, Python for data manipulation and machine learning, and R for statistical analysis. Additionally, I am proficient in utilizing BI tools such as Tableau and Power BI, which empowers me to craft intuitive and interactive visualizations that convey complex datasets in an understandable and engaging manner.
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+Beyond the technical skills, my approach to data analytics is deeply rooted in a keen understanding of business contexts, enabling me to translate data-driven insights into strategic actions that drive growth, efficiency, and competitive advantage. I have successfully applied my skills across various industries, including finance, retail, healthcare, and e-commerce, demonstrating versatility and the ability to adapt to new challenges and environments swiftly.
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+Collaboration and continuous learning are the cornerstones of my professional ethos. I thrive in environments that encourage the sharing of ideas and knowledge, as I believe that collective intelligence is key to unlocking innovative solutions. This collaborative spirit extends to my leadership style, where I aim to foster a culture of curiosity, empowerment, and accountability within my teams.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am also deeply committed to staying at the forefront of the ever-evolving data science field, regularly engaging in professional development opportunities, and contributing to the broader analytics community through forums, blogs, and speaking engagements. This commitment not only enhances my own skills but also allows me to bring cutting-edge solutions to the challenges faced by organizations.
 
-### Markdown
+In summary, my profile encapsulates a blend of analytical acumen, business insight, and collaborative leadership, all driven by a relentless pursuit of excellence in the field of data analytics. I am eager to leverage my skills and experiences to contribute to the success of forward-thinking organizations that recognize the transformative power of data.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Roadmap
-
-See the [open issues](https://github.com/evanca/quick-portfolio/issues) for a list of proposed features (and known issues).
-___
-
-### References
-
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
