@@ -8,7 +8,7 @@
 <img src="images/powerbi cover.png?raw=true"/>
 
 ---
-[Market Campaign Analysis](/pdf/sample_presentation.pdf)
+[Market Campaign Analysis](/pdf/Marketing Campaign Analysis PowerPoint_Jiao Meng.pdf)
 <img src="images/campaign analysis cover.png?raw=true"/>
 
 ---
