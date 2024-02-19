@@ -12,18 +12,14 @@
 <img src="images/campaign analysis cover.png?raw=true"/>
 
 ---
-[E-commerce A/B Testing](/sample_page)
-<img src="images/abtesting cover.png?raw=true"/>
+[E-commerce A/B Testing](https://github.com/Jiao-Meng-7/E-commerce-A-B-Testing/tree/master)
+
 
 ---
 
-### Case Study Blogs
+### Blogs
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Medium](https://medium.com/@mj2019june)
 
 ---
 
