@@ -13,7 +13,7 @@
 
 ---
 [E-commerce A/B Testing](https://github.com/Jiao-Meng-7/E-commerce-A-B-Testing/tree/master)
-
+<img src="images/abtesting cover.png?raw=true"/>
 
 ---
 
